@@ -9,3 +9,5 @@ Ejemplo de aplicación usando Material UI
 * Material UI + Emotion React + Emotion Styled (```yarn add @mui/material @emotion/react @emotion/styled```)
 * Icons (```yarn add @mui/icons-material```)
 * Robot fonts (Vía link tags on index.html)
+* Redux Toolkit (```yarn add @reduxjs/toolkit react-redux```)
+* Firebase (```yarn add firebase```)
